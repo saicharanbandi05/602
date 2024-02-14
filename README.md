@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+.DS_Store
+*.csv
+~*
+*.zip
+*.pkl
+*.h5
+*.xls
+*.xlsx
+*.xml
