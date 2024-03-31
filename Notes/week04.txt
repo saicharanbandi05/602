@@ -1,0 +1,5 @@
+Homework: Narrations can be more in detail
+Lab: File Not found
+hw: 94
+lab: 0
+
